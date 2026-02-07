@@ -1,0 +1,107 @@
+body {
+    background-color: black;
+}
+.callphone {
+    border: 7px solid;
+    background-color: white;
+    width: 300px;
+    border-radius: 20px;
+    border-color: gray;
+    position: relative;
+    height: 580px;
+    margin-left: 40%;
+    margin-top: 8%;
+}
+.heading{
+    background-color: blue;
+    padding: 15%;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin-top: -38px;
+    color: white;
+}
+.fa-gear{
+    padding: 7%;
+    padding-right: 5%;
+    color: white;
+    margin-left: -35px;
+
+
+}
+.Money{
+    color: white;
+    margin-top: -10px;
+    margin-left: 75px;
+    margin-top: -15px;
+}
+.photo{
+    position: absolute;
+    margin-left: 57px;
+    margin-top: -50px;
+}
+.choix{
+    padding: 18%;
+margin-left: -40px;
+margin-top: 25px;
+justify-content: space-between;
+}
+.choix1{
+    display: flex;
+    gap: 27px;
+   
+}
+.choix2{
+    display: flex;
+    gap: 27px;
+     margin-top: 15px;
+}
+.Icon{
+  margin-top: -15px;
+  font-size: 17px;
+  border: 2px solid #555;
+  border-radius: 50%;
+  padding: 10px;
+  background-color: rgb(245, 208, 208);
+  color: rgb(124, 124, 241);
+  
+}
+.Name1{
+    display: flex;
+    margin-top: 16px;
+    gap: 20px;
+}
+.Name2{
+     display: flex;
+    margin-top: 16px;
+    gap: 20px;
+}
+.Trans1{
+    color: blue;
+    margin-top: -45px;
+    margin-left: 8px;
+}
+.Trans2{
+    color: blue;
+    margin-left: 250px;
+    margin-top: -38px;
+}
+.Trans3{
+    margin-top: -24px;
+    margin-left: 8px;
+}
+.Trans4{
+    margin-top: -24px;
+    margin-left: 250px;
+}
+.Trans5{
+    margin-top: -24px;
+    margin-left: 8px;
+}.Trans6{
+    margin-top: -24px;
+    margin-left: 250px;
+}
+.Transaction2{
+    margin-top: 80px;
+}
